@@ -175,3 +175,5 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 *.csv
+# There is no other place where we can download this dataset.
+!autos.csv
