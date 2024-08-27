@@ -177,3 +177,4 @@ pyrightconfig.json
 *.csv
 # There is no other place where we can download this dataset.
 !autos.csv
+!euro-daily-hist_1999_2022.csv
